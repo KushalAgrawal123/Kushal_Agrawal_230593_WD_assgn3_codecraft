@@ -1,0 +1,8 @@
+
+
+:root{
+  background-color: rgb(234, 123, 43);
+}
+input::placeholder {
+  color: #ffffff; 
+}

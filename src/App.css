@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.form-btns-container {
+  margin-top: 10px;
+}
+
+.form-btn {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.image-gallery img {
+  max-width: 150px;
+  margin: 10px;
+}
